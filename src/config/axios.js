@@ -2,6 +2,6 @@ import axios from 'axios'
 
 export default axios.create(
     {
-        baseURL: 'https://fbrdmysql.herokuapp.com/'
+        baseURL: 'https://fbrdmreactmongoose.herokuapp.com//'
     }
 )
